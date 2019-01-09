@@ -6,7 +6,6 @@ permalink: /about/
 
 Web (mostly Magento) and Software Developer based In Taiwan
 
-Blog About
 ### More Information
 
 I am a proactive and driven Senior Software and Web Developer with over 5 years of experience working across both start-ups and large corporation, as well as multinational organisations mostly in Taipei, Taiwan.
