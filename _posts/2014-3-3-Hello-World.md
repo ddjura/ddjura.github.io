@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Publications
+title: Publications
 ---
 
 An Adaptive Energy-efficient Beaconing Mechanism for Geographic Routing
